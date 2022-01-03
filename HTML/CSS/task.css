@@ -1,0 +1,372 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    float: left;
+    margin-left: 30px;
+}
+.header span{
+    color: rgb(145, 38, 245);
+}
+.subhead{
+    float: right;
+    margin-top: 30px;
+}
+.subhead a{
+    margin-right: 50px;
+    text-decoration: none;
+}
+#home{
+    color: rgb(145, 38, 245);
+}
+#free{
+    background-color: rgb(145, 38, 245);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.c1{
+    width: 40%;
+    padding: 15px;
+    float: left;
+    margin: 80px 0px 0px 150px;
+}
+.text1{
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.text2{
+    font-weight: bold;
+    color: rgb(87, 85, 85);
+    margin-left: 30px;
+}
+.c1 img{
+    margin: 30px 0px 0px 30px;
+}
+.c2{
+    width: 40%;
+    padding: 15px;
+    background-image: url();
+    float: left;
+    margin: 80px 0px 0px 0px;
+}
+.c2 img{
+    margin-left: 20px;
+}
+.c3{
+    float: left;
+    margin: 120px 0px 0px 190px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(255, 245, 245);
+}
+.c3 h3{
+    color: rgb(95, 95, 95);
+    text-align: center;
+}
+.c3 p{
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(87, 85, 85);
+    font-weight: lighter;
+}
+.c3 img{
+    margin-left: 50px;
+}
+.c3 span{
+    background-color: blueviolet;
+    padding: 10px;
+    color: white;
+    margin-left: 53px;
+    border-radius: 5px; 
+}
+.c4{
+    width: 73%;
+    margin: 150px 0px 0px 190px;
+    padding: 20px;
+}
+.g{
+    margin-top: 40px;
+    float: left;
+}
+.divider {
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 32px;
+    width: 10%;
+    height: 3px;
+    border-radius: 40px;
+    background-color: #6f59ff;
+}
+.c4 span{
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 7px;
+    color: rgb(153, 153, 153);
+}
+.c4 p{
+    font-size: 30px;
+    word-spacing: 5px;
+    color: rgb(88, 88, 88);
+}
+.para p{
+    font-size: 15px;
+    word-spacing: 0px;
+    color: rgb(99, 99, 99);
+    margin-bottom: 30px;
+}
+.para span{
+    word-spacing: 0px;
+    letter-spacing: 0px;
+    background-color: blueviolet;
+    padding: 7px;
+    color: white;
+    font-weight: normal;
+    border-radius: 5px;
+}
+.photo{
+    float: right;
+}
+.c5{
+    text-align: center;
+    margin: 150px 0px 0px 0px;
+}
+.f841{
+    color: rgb(148, 148, 148);
+    letter-spacing: 2px;
+}
+.c5 p{
+    font-size: 30px;
+}
+.dash {
+    display: block;
+    margin: 16px 0px 32px 730px;
+    width: 3%;
+    height: 3px;
+    border-radius: 40px;
+    background-color: #6f59ff;
+}
+.b{
+    margin-left: 50px;
+}
+.seo{
+    width: 17%;
+    float: left;
+    margin: 30px 0px 0px 80px;
+}
+.seo p{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(95, 95, 95);
+}
+.seo img{
+    width: 20%;
+}
+.c6{
+    background-image: linear-gradient(to bottom, white 10%, rgb(90, 90, 238) 50%); 
+    padding: 35px 0px 30px 0px; 
+    margin-top: 100px;
+}
+.c6 p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+}  
+#check{
+    background-color: rgb(20, 182, 20);
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+    margin:0px 0px 0px 400px;
+}         
+.s0841{
+    background-color: white;
+    width: 40.5%;
+    margin:0px 0px 50px 450px;
+    padding: 11px 0px 10px 5px;
+    border-radius: 5px;
+    color: rgb(160, 159, 159);
+}  
+.c7{
+    margin: 200px 0px 0px 0px ;
+}
+.c7 h5, .c10 h5{
+    letter-spacing: 2px;
+    color: rgb(151, 150, 150);
+    text-align: center;
+}
+.right{
+    text-align: center;
+    font-size: 30px;
+    margin-top: -10px;
+    font-weight: 900;
+    color: rgb(109, 109, 109);
+}    
+.hyphen{
+    display: block;
+    margin: -15px 0px 32px 735px;
+    width: 2%;
+    height: 3px;
+    border-radius: 40px;
+    background-color: #6f59ff;
+}    
+.plan,.plan2{
+    width: 20%;
+    float: left;
+    margin: 20px 0px 0px 150px;
+    border-radius: 5px;
+    background-color: rgb(247, 247, 247);
+}
+.plan h2,.plan2 h2{
+    font-size: 35px;
+    text-align: center;
+}
+.plan h3,.plan2 h3{
+    text-align: center;
+}
+.price{
+    font-size: 18px;
+    font-weight: 600;
+}
+.rate{
+    font-size: 20px;
+    color: rgb(179, 179, 179);
+}
+.time{
+    color: blueviolet;
+    font-size: 18px;
+    text-align: center;
+    margin: -10px 0px 30px 0px;
+}
+.uuu{
+    text-align: center;
+    padding: 10px;   
+}
+.uu2{
+    color: rgb(143, 138, 138);
+}
+.plan2 .uu2{
+    color: rgb(201, 201, 201);
+}
+.subscribe{
+    width: 90%;
+    background-color: rgb(156, 165, 175);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 15px 15px ;
+}
+.plan2{
+    background-color: rgb(72, 72, 255);
+    color: white;
+}
+.plan2 .time,.plan2 h3{
+    color: rgb(236, 227, 236);
+}
+.plan2 .subscribe{
+    background-color: white;
+    color: blueviolet;
+}
+.c8, .c9{
+    background-image: linear-gradient(to right, white ,rgb(67, 67, 252) 60%);
+    width: 50%;
+    float: left;
+    padding: 50px 0px;
+    margin: 150px 0px 0px 0px;
+}
+.c8 h1{
+    color: white;
+    margin: 0px 0px 0px 250px;
+}
+.div{
+    display: block;
+    margin: 90px 0px 0px 250px;
+    width: 5%;
+    height: 3px;
+    border-radius: 40px;
+    background-color: white;
+}
+.hh8611{
+    color: white;
+    margin: 40px 0px 0px 250px;
+}
+.li1763{
+    margin: 15px 0px 0px 250px;
+}
+.listhead{
+    font-size: 20px;
+    color: white;
+}
+.li1763 p{
+    color: white;
+}
+.c9{
+    padding: 86.5px 50px;
+    background-image: linear-gradient(to right, rgb(67, 67, 252) 40%, white);
+}
+.c10{
+    margin-top: 100px;
+}
+.blog{
+    background-color: rgb(241, 241, 241);
+    width: 20%;
+    height: auto;
+    float: left;
+    margin: 50px 0px 50px 150px;
+    border-radius: 5px;
+}
+.blog div{
+    padding: 0px 20px;
+}
+.blog p, .blog h5, .blog h2{
+    color: rgb(94, 94, 94);
+}
+.blog span{
+    color: rgb(118, 9, 219);
+}
+.view{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    width: 8%;
+    margin: 0px 0px 0px 46%;
+}
+.page-footer{
+    height: 70vh;
+    background-color: black;
+    margin-top: 100px;
+}
+.foot1{
+    padding: 15px;
+    width: 15%;
+    float: left;
+    margin: 50px 0px 0px 110px;
+    color: white;
+}
+.foot1 h6{
+    font-size: 13px;
+    color: white;
+}
+.button{
+    background-color: rgb(20, 182, 20);
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    width: 80%;
+}
+.foot1 input{
+    padding: 5px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+.foot1 div{
+    margin-top: 15px;
+}
+
