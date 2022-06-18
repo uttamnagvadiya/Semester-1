@@ -1,0 +1,108 @@
+.c3card{
+    margin: 10px;
+    border-radius: 30px;
+}
+.input{
+    border-radius: 20px;
+}
+.footer1{
+    border-radius: 25px 0px 0px 25px;
+}
+.footer2{
+    border-radius: 0px 25px 25px 0px;
+}
+.icon{
+    display: inline-block;
+    margin: 0px 13px;
+    font-size: 35px;
+    color: yellow;
+    animation: iconMotion 1.5s ease-in-out infinite;
+}
+.drop-icon{
+    font-size: 25px;
+    color: #41b9ff;
+}
+
+.ri-instagram-line{
+    animation-delay: 0.5s;
+
+}
+.ri-facebook-circle-line {
+    animation-delay: 1s;
+
+}
+.ri-twitter-line {
+    animation-delay: 1.5s;
+
+}
+.ri-youtube-line {
+    animation-delay: 2s;
+
+}
+.ri-amazon-line{
+    animation-delay: 2.5s;
+
+}
+.ri-apple-line {
+    animation-delay: 3s;
+
+}
+.ri-google-line{
+    animation-delay: 3.5s;
+
+}
+.ri-android-line {
+    animation-delay: 4s;
+
+}
+.ri-github-line {
+    animation-delay: 4.2s;
+
+}
+.ri-linkedin-line {
+    animation-delay: 4.5s;
+
+}
+.ri-stack-overflow-line {
+    animation-delay: 5s;
+
+}
+.ri-snapchat-line {
+    animation-delay: 5.5s;
+
+}
+.ri-telegram-line {
+    animation-delay: 6s;
+
+}
+.ri-chrome-line {
+    animation-delay: 6.5s;
+
+}
+.ri-windows-line {
+    animation-delay: 7s;
+
+}
+.ri-ubuntu-line {
+    animation-delay: 7.5s;
+
+}
+.ri-drive-line {
+    animation-delay: 8s;
+
+}
+.ri-paypal-line {
+    animation-delay: 8.5s;
+
+}
+@keyframes iconMotion{
+    0%{
+        transform: translateY(30px);
+    }
+    50%{
+        transform: translateY(-15px);
+    }
+    100%{
+        transform: translateY(30px);
+    }
+}
