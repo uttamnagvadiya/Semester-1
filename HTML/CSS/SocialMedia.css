@@ -1,0 +1,31 @@
+
+.icon{
+    display: inline-block;
+    margin: 20px;
+    font-size: 200px;
+    animation: motion 1.8s ease-in-out infinite;
+}
+.ri-whatsapp-line{
+    color: rgb(0, 236, 20);
+}
+.ri-instagram-line{
+    background: radial-gradient(circle at 25% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 120%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation-delay: 1s;    
+}
+.ri-facebook-circle-line{
+    color: blue;
+    animation-delay: 1.4s;
+}
+@keyframes motion{
+    0%{
+        transform: translateY(30px);
+    }
+    50%{
+        transform: translateY(-40px);
+    }
+    100%{
+        transform: translateY(30px);
+    }
+}
